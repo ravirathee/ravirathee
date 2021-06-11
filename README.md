@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravirathee
 - 👀 I’m interested in Competitive Coding and building new stuff.
-- 🌱 I’m currently learning Laravel and codeforces.
+- 🌱 I’m currently learning Laravel and trying competitive coding on codeforces.
 - 📫 How to reach me ...
 
 <!---
